@@ -1,0 +1,1 @@
+CATALINA_OPTS="$CATALINA_OPTS -Drulo=dev"
